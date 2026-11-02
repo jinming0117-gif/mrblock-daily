@@ -1,1 +1,44 @@
-🧪 測試訊息 3｜區塊先生每日快訊自動發送測試
+🗞️ 市場快訊｜11/2 區塊先生每日新聞快訊
+
+幣安遭駭後恢復提領，比特幣在約 7.8 萬美元附近整理；美股上週五受 AI 類股拖累下挫，週一期貨回升，油價因美伊談判消息回落。
+本週留意：11/3 美國期中選舉、11/6 美國 10 月非農就業報告，以及市場對聯準會 12 月是否升息的預期。
+
+【幣圈】
+<a href="https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead">幣安駭客事件後恢復提領，首日淨流出 36.4 億美元</a>
+據 CoinDesk，幣安在遭遇 63 億美元駭客攻擊三天後，於 11/1 重新開放提領，首日客戶淨提領 36.4 億美元。幣安表示已用自有儲備補回約 95% 的遭竊資金；比特幣週一約在 7.8 萬美元附近。
+
+<a href="https://www.coingabbar.com/en/crypto-news-november-2-bitcoin-ethereum-fear-greed-us-midterms">期中選舉前夕，加密立法前景成市場關注點</a>
+Coingabbar 整理指出，預測市場給予民主黨同時拿下參眾兩院的機率約 70%；9 月 CLARITY Act 推進表決時，參議院民主黨議員全數投下反對票，國會結果可能影響加密立法進度。當日恐懼貪婪指數為 37。
+
+<a href="https://www.coingabbar.com/en/crypto-news-november-2-bitcoin-ethereum-fear-greed-us-midterms">巴西加密業者牌照申請截止，僅約 40 家提出申請</a>
+據 Coingabbar 報導，巴西在 10/30 截止受理牌照申請，原預期 150 至 200 家業者中僅約 40 家提出申請。自 11/6 起，銀行必須停止為無牌照的服務商提供服務。
+
+【金融】
+<a href="https://marketscreener.com/news/stock-futures-higher-oil-lower-as-investors-return-to-risk-ce785fd8de8dfe21">AI 類股拖累美股上週五下挫，週一期貨回升</a>
+MarketScreener 報導，那斯達克週五出現 6 月以來最大單日跌幅。週一盤前那斯達克 100 期貨上漲 0.7%、標普 500 期貨上漲 0.4%、道瓊期貨上漲 0.2%；亞股方面，韓國 Kospi 收漲 2.2%，日經 225 小跌 0.3%。
+
+<a href="https://nordfx.com/market-news/market-pulse-november-02-2026">美伊在杜哈談判，布蘭特原油回落至 110 美元上下</a>
+NordFX 市場摘要指出，美國與伊朗就重啟荷莫茲海峽在杜哈進行會談，壓低油價，布蘭特原油約在 110 美元、WTI 約 100.8 美元；不過油輪遇襲事件仍使風險溢價偏高。中國官方製造業 PMI 為 49.3，低於 50 榮枯線。
+
+<a href="https://marketscreener.com/news/stock-futures-higher-oil-lower-as-investors-return-to-risk-ce785fd8de8dfe21">市場持續預期聯準會 12 月升息，2 年期殖利率約 4.6%</a>
+MarketScreener 指出，投資人仍預期聯準會 12 月升息，2 年期美債殖利率約 4.600%；10 年期約 4.910%、30 年期低於 5.300%，後兩者較前期回落。黃金價格則在 4,000 美元以下。
+
+【AI】
+<a href="https://dataconomy.com/2026/11/02/microsoft-launches-25-billion-bond-sale-to-fund-ai-expansion/">微軟啟動至少 250 億美元債券發行，為九年多來首次</a>
+據 Dataconomy，微軟此次投資等級債券發行規模至少 250 億美元，最多分 10 檔，年期 2 至 40 年，預計 11/4 交割。公司預計 2026 年資本支出 1,700 億美元，用於擴充 AI 基礎設施。
+
+<a href="https://www.resultsense.com/news/2026-11-02-ai-firms-shared-robots-training-signal/">OpenAI、Google、微軟、Anthropic 支持共同的 AI 訓練退出訊號</a>
+據報導，網站擁有者未來可透過單一訊號，聲明是否同意內容被用於生成式 AI 訓練。Anthropic 已支援，Google 與微軟預計明年跟進，OpenAI 則表示將於數月內推出；此機制屬自願性質。
+
+<a href="https://www.thenationalnews.com/news/uae/2026/11/02/abu-dhabi-agrees-openai-deals-to-boost-government-services-and-education">阿布達比與 OpenAI 簽署多項合作協議</a>
+The National 報導，協議涵蓋政府服務、投資分析、食品與教育領域，包括阿布達比政府以 AI 讀取法規的「機器可讀政府」計畫，以及 Inception42 與 OpenAI 的五年合作。報導未揭露合約金額。
+
+🌟 本週推薦 &amp; 中文社區 🌟
+▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
+▸ Entropyi 超級推薦碼：entropy.io/?r=mrblock
+▸ Lighter 推薦碼：app.lighter.xyz/trade/ETH?referral=MRBLOCK
+▸ WaterX 推薦碼：https://waterx.app/referral?code=mrblock
+▸ Saturn 推薦碼：MBK
+▸ Plasma U 卡推薦碼：MRBLCK
+▸ LIGHTER 中文社區：https://t.me/lighter_asia
+▸ ETHER.FI 中文社區：https://t.me/etherfi_asia
