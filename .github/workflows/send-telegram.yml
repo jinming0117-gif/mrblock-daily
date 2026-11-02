@@ -17,4 +17,5 @@ jobs:
           curl -sS --fail -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT_ID}" \
             --data-urlencode "text@flash.txt" \
+            -d "parse_mode=HTML" \
             -d "disable_web_page_preview=true"
