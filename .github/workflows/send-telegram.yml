@@ -14,8 +14,10 @@ jobs:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          curl -sS --fail -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+          curl -sS -o resp.json -w "HTTP %{http_code}\n" -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT_ID}" \
             --data-urlencode "text@flash.txt" \
             -d "parse_mode=HTML" \
             -d "disable_web_page_preview=true"
+          cat resp.json; echo
+          grep -q '"ok":true' resp.json
