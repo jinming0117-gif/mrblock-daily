@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/3 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/4 區塊先生每日新聞快訊
 
-幣安遭駭事件後於週日重啟提領，比特幣在 7.7 萬至 7.8 萬美元間整理；美股週一收盤小幅下跌，AI 資本支出與融資壓力仍是市場焦點。
-今日（11/3）美國期中選舉登場，11/5 英國央行利率決議，11/6 公布美國 10 月非農就業數據，皆為本週重點。
+幣安遭駭事件持續發酵：北韓否認 FBI 的指控，幣安重啟提領後累計淨流出約 52.8 億美元；美股週二收盤漲跌互見，AI 投資報酬與美債殖利率仍是市場焦點。
+今日（11/4）幣安將公布新一期儲備快照，11/5 英國央行利率決議，11/6 公布美國 10 月非農就業數據；美國期中選舉開票結果也將影響市場情緒。
 
 【幣圈】
-<a href="https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead">幣安在 63 億美元遭駭事件後重啟提領</a>
-據 CoinDesk 報導，幣安於 11/1 重啟提領，首日用戶淨提領 36.4 億美元；幣安表示已用自有儲備補回約 95% 的被盜資金。
+<a href="https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor">北韓否認涉入幣安駭客事件，Elliptic 稱已凍結或查扣 28.5 億美元</a>
+據 CoinDesk，FBI 先前指稱 10/29 的約 64 億美元竊案由北韓 TraderTraitor 所為，金正恩之妹金與正 11/2 否認。Elliptic 表示其分析支持 FBI 說法，已有約 28.5 億美元遭凍結或查扣。
 
-<a href="https://finance.yahoo.com/markets/crypto/articles/btc-usd-holds-78-000-092425362.html">美國現貨比特幣 ETF 週五淨流出 6.43 億美元</a>
-據 Yahoo Finance，10/31 現貨比特幣 ETF 淨流出 6.433 億美元，為 6/25 以來單日最大，其中 IBIT 流出 2.337 億美元；比特幣週一約 7.8 萬美元，自 10/30 低點 7.63 萬美元回升。
+<a href="https://en.bloomingbit.io/feed/news/123587">美國現貨比特幣 ETF 兩個交易日淨流出 10.4 億美元</a>
+據 Bloomingbit，10/30 與 11/2 兩個交易日，美國現貨比特幣 ETF 合計淨流出 10.4 億美元，其中 11/2 貝萊德 IBIT 流出約 4.05 億美元；比特幣價格約在 7.7 萬美元附近。
 
-<a href="https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded">幣安遭駭事件整理：TRM Labs 指與北韓駭客組織有關</a>
-Cointelegraph 整理指，TRM Labs 將攻擊歸因於北韓 TraderTraitor 組織，幣安尚未證實；幣安共同執行長稱攻擊者藉 EIP-7702 授權取得熱錢包執行權限，業界已凍結約 30 億美元資產。
+<a href="https://financefeeds.com/binance-says-withdrawals-have-normalized-after-6-3-billion-crypto-hack/">幣安重啟提領後累計淨流出約 52.8 億美元</a>
+據 FinanceFeeds，11/1 至 11/3 期間幣安累計淨流出約 52.8 億美元，約占先前資產 3.1%。幣安稱已補回約 95% 被盜資產，下一次儲備快照預計 11/4 公布。
 
 【金融】
-<a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-2-171255737.html">市場押注美伊外交進展，油價盤中重挫逾 7%</a>
-據 Yahoo Finance 午盤報導，投資人押注美伊衝突有望透過外交化解，原油盤中跌逾 7%，道瓊、標普 500 與那斯達克午盤均上漲。
+<a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-3-145801086.html">美股週二漲跌互見，十年期美債殖利率升至 4.952%</a>
+據 Yahoo Finance，11/3 標普 500 上漲 0.36% 至 7,568.92，那斯達克上漲 0.83%，道瓊下跌 0.38%。十年期美債殖利率報 4.952%，VIX 為 20.83。
 
-<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026">蘋果財報優於預期，美股收盤漲跌互見</a>
-據 TheStreet，蘋果財季營收 1,144.8 億美元（預期 1,134.7 億），EPS 為 2.10 美元；週一標普 500 收跌 0.51%、那斯達克收跌 1.07%、道瓊收漲 0.41%，市場觀望期中選舉。
+<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026">傳美軍打擊伊朗革命衛隊據點，油價早盤走高</a>
+據 TheStreet，市場傳出美軍打擊伊朗革命衛隊據點，WTI 早盤上漲 2.13% 至每桶 98.51 美元，布蘭特上漲 1.66% 至 106.50 美元；週一油價曾因美伊談判預期大幅回落。
 
-<a href="https://www.riotimesonline.com/global-economy-briefing-november-2-2026">聯準會維持利率 3.75%–4.00%，兩位委員主張升息</a>
-據 Rio Times 整理，聯準會 10/28 以 10 比 2 投票維持利率不變，Cook 與 Hammack 主張升息一碼；市場接下來關注 11/6 公布的 10 月非農就業報告。
+<a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-3-145801086.html">蘋果、Palantir 財報後股價下跌，市場擔憂 AI 投資報酬</a>
+據報導，蘋果因利潤率預測偏弱及 iPad 銷售不如預期下跌 2.15%；Palantir 雖財報優於預期並上調全年財測，但新增合約放緩，股價下跌 1.48%。
 
 【AI】
-<a href="https://fourweekmba.com/ai-daily-roundup-2-nov-2026-anthropic-17b-quarter-895b/">Anthropic 修正版 S-1 揭露第三季營收約 170 億美元</a>
-據 FourWeekMBA 整理，Anthropic 修正版 S-1 顯示第三季營收 170 億美元、年增 1,127%，營運虧損 5.67 億美元，淨虧損 233 億美元；採購承諾與租賃合計約 8,954 億美元。
+<a href="https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm">AMD 第三季營收 134 億美元，資料中心年增 97%</a>
+根據 AMD 向美國證交會提交的文件，第三季營收 134 億美元、年增 45%，資料中心部門營收 85 億美元、年增 97%；公司預估第四季營收約 170 億美元，上下浮動 3%。
 
-<a href="https://aiweekly.co/ai-news-today">甲骨文、Alphabet、Meta 為 AI 擴張加碼籌資</a>
-據 AI Weekly 彙整，甲骨文申請發行 100 億美元普通股與 100 億美元優先債券，盤中股價下跌約 6%；Alphabet 發行 60 億歐元債券，認購逾 171 億歐元；Meta 據報評估至少 200 億美元債券。
+<a href="https://aiweekly.co/ai-news-today">甲骨文申請發行 200 億美元股票與債券，投入 AI 擴建</a>
+據 AI Weekly 整理，甲骨文提交文件，計畫發行 100 億美元普通股與 100 億美元優先票據，資金用於資料中心與晶片採購等；消息後股價下跌逾 6%。
 
-<a href="https://aiweekly.co/ai-news-today">Marvell 擬以全股票交易收購 Lumentum，企業價值 1,150 億美元</a>
-據 AI Weekly 彙整，交易隱含企業價值 1,150 億美元，每股約 1,132 美元，較 10/28 收盤溢價 23.9%；Marvell 股東將持有合併後公司 67%，預計 2028 年上半年完成。
+<a href="https://aiweekly.co/ai-news-today">Marvell 宣布以全股票方式併購 Lumentum，隱含企業價值 1,150 億美元</a>
+據 AI Weekly 整理並引述 CNBC，Marvell 將以全股票交易收購 Lumentum，隱含企業價值約 1,150 億美元，較 10/28 收盤價溢價 23.9%，預計 2028 年上半年完成。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
