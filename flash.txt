@@ -1,38 +1,37 @@
-🗞️ 市場快訊｜11/7 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/8 區塊先生每日新聞快訊
 
-美東週五美股在前一日 AI 與晶片類股重挫後反彈，標普 500 與納斯達克收高、道瓊小跌；10 月非農新增 16.5 萬人，市場對 12 月升息的預期升溫。
-
-接下來留意 12/9 聯準會會議前的升息機率變化，以及美伊談判與荷莫茲海峽情勢對油價的影響；比特幣持穩 7.5 萬美元附近，支撐位是關注重點。
+AI 與晶片股本週劇烈回檔，美股週四大跌、週五反彈；比特幣在 7.5 萬至 7.6 萬美元震盪，受 Binance 遭駭與 ETF 流出影響。
+下週留意聯準會 12 月升息預期變化、11/9 生效的 FinCEN 與聯準會旅行規則調整，以及 Anthropic 傳出的 11 月中旬 IPO 進展。
 
 【幣圈】
-<a href="https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs">非農公布後，比特幣在 7.55 萬至 7.6 萬美元間整理</a>
-Bitcoin Magazine 報導，比特幣週五在約 75,240 至 76,280 美元間波動。美國現貨比特幣 ETF 週四淨流出 4.302 億美元，本週累計流出約 8.7 億美元；24 小時內有逾 10 億美元部位被清算，以多單為主。
+<a href="https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know">Binance 公布遭竊約 63 億美元，TRM 指與北韓駭客有關</a>
+Binance 表示約 63 億美元資產遭盜，為有紀錄以來最大規模加密貨幣盜案；TRM Labs 以高度信心認定與北韓關聯組織有關。Binance 後續稱已補足 98% 受影響資產。
 
-<a href="https://theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867">奈及利亞央行公布穩定幣發行商許可制，禁止演算法穩定幣</a>
-The Block 報導，奈及利亞央行自 11/5 起要求穩定幣發行商取得許可，且每種代幣須事先書面核准。外幣穩定幣僅能以第二類代幣形式，透過當地註冊實體發行；現有業者有 180 天申請期。
+<a href="https://news.bitcoin.com/regulation-and-legal/white-house-reviews-sec-crypto-rules-after-democratic-midterm-victory">SEC 加密券商規則草案送交白宮審查</a>
+SEC 於 11/3 將加密資產券商資本與客戶保護規則修正案送交白宮 OIRA 審查，草案尚未公開。民主黨在期中選舉後取得國會兩院多數。
 
-<a href="https://cryptoticker.io/en/bitcoin-crash-nasdaq-reasons-targets-hedge/">比特幣單日跌至 7.52 萬美元，與納指修正同步</a>
-CryptoTicker 指出，比特幣從週三晚間的 80,962 美元，在約 17 小時內跌至 75,568 美元，晚間一度觸及 75,208 美元，為 9/16 以來低點。文章認為晶片與 AI 類股賣壓是主因，並提到 75,000 美元為關鍵支撐。
+<a href="https://crypto.news/weekly-recap-binance-recovery-crypto-bill-bitcoin-etf/">美國現貨比特幣 ETF 11/5 淨流出 4.302 億美元</a>
+據 Farside Investors，美國現貨比特幣 ETF 11/4 淨流入 7,460 萬美元後，11/5 轉為淨流出 4.302 億美元；11 月前四個交易日累計淨流出 8.698 億美元。
 
 【金融】
-<a href="https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html">10 月非農新增 16.5 萬人，失業率降至 4.1%</a>
-路透報導，美國 10 月非農 就業人數增加 16.5 萬，高於市場預期；失業率由 4.2% 降至 4.1%，9 月數據上修至 6 萬。報告公布後，市場對下月升息的押注升至約 78%，10 年期殖利率約 4.87%。
+<a href="https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html">美股週四重挫，那斯達克進入修正區間</a>
+11/5 道瓊下跌逾 1,800 點，標普 500 約跌 4.3%，那斯達克跌 5.5%；VIX 單日大漲逾 65%，為兩年多來最大單日漲幅。
 
-<a href="https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html">美股週五反彈：納指漲 1.09%、道瓊跌 0.46%，晶片股回升</a>
-週五標普 500 收 7,376.86 點，上漲 0.31%；納斯達克收 24,579.42 點，上漲 1.09%；道瓊收 51,285.73 點，下跌 0.46%。輝達、超微在前一日大跌後回升，科技類股本週下跌約 7%，能源類股約下跌 11%。
+<a href="https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html">美國 10 月非農新增 16.5 萬人，市場預期聯準會 12 月升息</a>
+10 月非農新增 16.5 萬人，高於預期，失業率降至 4.1%。11/6 標普 500 漲 0.31%、那斯達克漲 1.09%、道瓊跌 0.46%；市場更預期 12 月升息。
 
-<a href="https://cappnotes.substack.com/p/closing-look-friday-november-6-2026">美伊談判不確定性下，油價週五小幅波動、本週明顯下跌</a>
-Closing Look 整理指出，週五 WTI 約 90.37 美元、布蘭特約 97.79 美元，市場仍關注美伊戰事外交進展與荷莫茲海峽風險。美元指數上漲 0.76% 至 102.32，黃金下跌 0.79% 至約 4,081 美元。
+<a href="https://invezz.com/news/2026/11/06/oil-prices-today-brent-weekly-slump/">布蘭特原油週跌逾一成，逼近 100 美元關口</a>
+在中東外交進展預期下，布蘭特原油本週跌幅約 12%，接近每桶 100 美元；WTI 12 月合約 11/6 收 90.34 美元。
 
 【AI】
-<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026">期中選舉後 AI 概念股劇震，週五市場回穩</a>
-TheStreet 報導，週四股市重挫與民主黨期中選舉勝利、反 AI 候選人勝選引發的 AI 熱潮持續性疑慮有關，納斯達克 100 指數下跌 6.3%。週五股市部分回升，納斯達克與標普 500 收高。
+<a href="https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/">OpenAI 首批募得約 110 億美元，估值 1.25 兆美元</a>
+OpenAI 新一輪募資首批約 110 億美元到位，軟銀與 MGX 參與，財務長證實估值 1.25 兆美元；外界先前報導目標為 300 億美元以上。
 
-<a href="https://nkrish101.substack.com/p/ai-roundup-tech-rout-wipes-32-trillion">OpenAI 發布資料中心「全國社區承諾」</a>
-據 AI Roundup 整理，OpenAI 承諾自有園區支付完整電力與電網升級成本，且不與公職人員簽署保密協議；並在喬治亞州 Effingham 郡投入 8,000 萬美元、俄亥俄州 Pike 郡投入 4,000 萬美元。
+<a href="https://unite.ai/anthropics-planned-ipo-puts-public-trust-and-data-centers-in-focus">Anthropic 傳鎖定 11 月中旬 Nasdaq 上市，估值預期下修</a>
+CNBC 報導 Anthropic 最快 11 月中旬於 Nasdaq 掛牌，投資人目標估值約 1 兆至 1.5 兆美元，低於先前傳出的 2 兆美元。
 
-<a href="https://sharedsapience.substack.com/p/the-century-report-november-6-2026">OpenAI 推出 GPT-6 Cyber，自評風險等級為「Critical」</a>
-Century Report 整理指出，OpenAI 依其準備框架將該模型評為「Critical」，在 ExploitGym 得分 48.5%，高於 GPT-6 Astra 的 42.4%；越界執行比例由約 5% 降至不到 1%。
+<a href="https://ca.finance.yahoo.com/news/chip-stocks-hammered-political-shift-162300534.html">AI 晶片股重挫，市場擔憂政治轉向增添資料中心監管風險</a>
+民主黨贏得國會後，投資人擔心 AI 資料中心建設面臨更多監管阻力，費城半導體指數 11/5 單日下跌約 12%。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
