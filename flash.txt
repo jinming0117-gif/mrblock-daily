@@ -1,38 +1,38 @@
-🗞️ 市場快訊｜11/6 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/7 區塊先生每日新聞快訊
 
-美東週四美股與加密市場同步回落：納斯達克收盤進入修正區間，比特幣一度跌破 7.6 萬美元，晶片與 AI 類股跌幅最大。
+美東週五美股在前一日 AI 與晶片類股重挫後反彈，標普 500 與納斯達克收高、道瓊小跌；10 月非農新增 16.5 萬人，市場對 12 月升息的預期升溫。
 
-接下來市場關注美國 10 月非農就業報告（週五）與 11/10 公布的 10 月 CPI；原油因美伊談判預期反覆波動，也值得留意。
+接下來留意 12/9 聯準會會議前的升息機率變化，以及美伊談判與荷莫茲海峽情勢對油價的影響；比特幣持穩 7.5 萬美元附近，支撐位是關注重點。
 
 【幣圈】
-<a href="https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq">比特幣跌至 7.6 萬美元附近，納指進入修正區間</a>
-比特幣週四午後在 7.6 萬美元附近，單日跌幅逾 5%，並測試 7.54 萬美元支撐。過去 24 小時約 10.8 億美元槓桿部位遭清算，其中多單約 9.54 億美元；以太幣一度跌破 2,300 美元。
+<a href="https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs">非農公布後，比特幣在 7.55 萬至 7.6 萬美元間整理</a>
+Bitcoin Magazine 報導，比特幣週五在約 75,240 至 76,280 美元間波動。美國現貨比特幣 ETF 週四淨流出 4.302 億美元，本週累計流出約 8.7 億美元；24 小時內有逾 10 億美元部位被清算，以多單為主。
 
-<a href="https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty">期中選後，穩定幣與代幣化進度料受影響較小</a>
-CoinDesk 報導，民主黨在期中選舉取得進展，可能使全面性加密立法更難推進；但 GENIUS 法案已立法，代幣化證券也可在現行法規下推動。DeFi 預期將是未來立法最具爭議的部分。
+<a href="https://theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867">奈及利亞央行公布穩定幣發行商許可制，禁止演算法穩定幣</a>
+The Block 報導，奈及利亞央行自 11/5 起要求穩定幣發行商取得許可，且每種代幣須事先書面核准。外幣穩定幣僅能以第二類代幣形式，透過當地註冊實體發行；現有業者有 180 天申請期。
 
-<a href="https://crypto.news/bitcoin-etf-inflows-us-crypto-legislation-delays/">美國現貨比特幣 ETF 結束三日流出，11/4 淨流入 7,460 萬美元</a>
-根據 Farside Investors 數據，11/4 美國現貨比特幣 ETF 淨流入 7,460 萬美元，結束連續三個交易日、合計約 11.6 億美元的流出。富達 FBTC 流入 2.367 億美元，貝萊德 IBIT 流出 2.012 億美元。
+<a href="https://cryptoticker.io/en/bitcoin-crash-nasdaq-reasons-targets-hedge/">比特幣單日跌至 7.52 萬美元，與納指修正同步</a>
+CryptoTicker 指出，比特幣從週三晚間的 80,962 美元，在約 17 小時內跌至 75,568 美元，晚間一度觸及 75,208 美元，為 9/16 以來低點。文章認為晶片與 AI 類股賣壓是主因，並提到 75,000 美元為關鍵支撐。
 
 【金融】
-<a href="https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html">美股收盤大跌，納指進入修正、費半單日重挫逾 12%</a>
-週四道瓊指數下跌 1,833 點（3.44%），標普 500 下跌 4.36%，納斯達克下跌 5.52% 至 24,315 點，距高點跌幅逾 10%。費城半導體指數重挫 12.25%，VIX 收在 28.18。
+<a href="https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html">10 月非農新增 16.5 萬人，失業率降至 4.1%</a>
+路透報導，美國 10 月非農 就業人數增加 16.5 萬，高於市場預期；失業率由 4.2% 降至 4.1%，9 月數據上修至 6 萬。報告公布後，市場對下月升息的押注升至約 78%，10 年期殖利率約 4.87%。
 
-<a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-5-132500891.html">油價週三大跌近 9%，週四回升，市場關注美伊談判</a>
-Zacks 報導，週三布蘭特原油下跌 8.7% 至每桶 94.62 美元，WTI 下跌 8.3% 至 88.12 美元，皆為 8 月底以來低點。據 Yahoo 財經，週四 WTI 回升 3.22% 至 90.96 美元，市場仍在觀察美國是否與伊朗達成協議。
+<a href="https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html">美股週五反彈：納指漲 1.09%、道瓊跌 0.46%，晶片股回升</a>
+週五標普 500 收 7,376.86 點，上漲 0.31%；納斯達克收 24,579.42 點，上漲 1.09%；道瓊收 51,285.73 點，下跌 0.46%。輝達、超微在前一日大跌後回升，科技類股本週下跌約 7%，能源類股約下跌 11%。
 
-<a href="https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html">美債殖利率下滑，交易員轉向觀望非農數據</a>
-CNBC 指出，投資人從科技股撤出、並等待就業數據之際，美國 10 年期公債殖利率走低。Yahoo 財經數據顯示，10 年期殖利率週四收在 4.837%，下滑 0.057 個百分點。
+<a href="https://cappnotes.substack.com/p/closing-look-friday-november-6-2026">美伊談判不確定性下，油價週五小幅波動、本週明顯下跌</a>
+Closing Look 整理指出，週五 WTI 約 90.37 美元、布蘭特約 97.79 美元，市場仍關注美伊戰事外交進展與荷莫茲海峽風險。美元指數上漲 0.76% 至 102.32，黃金下跌 0.79% 至約 4,081 美元。
 
 【AI】
-<a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">OpenAI：AI 代理為 948 個 Linux 提權漏洞寫出可用攻擊程式</a>
-OpenAI 研究指出，自動化流程標記 2,308 個潛在 Linux 核心漏洞並重現 1,724 個，成本約 121 萬美元 API 額度。截至研究結束，已有 61 個漏洞在上游修補；測試在受控環境進行，且需先取得主機立足點。
+<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026">期中選舉後 AI 概念股劇震，週五市場回穩</a>
+TheStreet 報導，週四股市重挫與民主黨期中選舉勝利、反 AI 候選人勝選引發的 AI 熱潮持續性疑慮有關，納斯達克 100 指數下跌 6.3%。週五股市部分回升，納斯達克與標普 500 收高。
 
-<a href="https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor">Meta 收購 AI 程式開發新創 Conductor</a>
-Axios 報導，Meta 收購 Conductor，該公司可讓開發者把程式專案分派給多個 AI 代理。其雲端服務將於 11/20 關閉，之後開始刪除客戶雲端資料；創辦人暗示 2027 年初將推出新產品。
+<a href="https://nkrish101.substack.com/p/ai-roundup-tech-rout-wipes-32-trillion">OpenAI 發布資料中心「全國社區承諾」</a>
+據 AI Roundup 整理，OpenAI 承諾自有園區支付完整電力與電網升級成本，且不與公職人員簽署保密協議；並在喬治亞州 Effingham 郡投入 8,000 萬美元、俄亥俄州 Pike 郡投入 4,000 萬美元。
 
-<a href="https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending">彭博：蘋果下調內部 AI 使用預算</a>
-彭博報導，蘋果部分工程師的每日 AI 額度由 300 美元降至 200 美元，公司正考慮進一步降至 100 美元，部分非工程團隊可能降至 25 美元。
+<a href="https://sharedsapience.substack.com/p/the-century-report-november-6-2026">OpenAI 推出 GPT-6 Cyber，自評風險等級為「Critical」</a>
+Century Report 整理指出，OpenAI 依其準備框架將該模型評為「Critical」，在 ExploitGym 得分 48.5%，高於 GPT-6 Astra 的 42.4%；越界執行比例由約 5% 降至不到 1%。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
