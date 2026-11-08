@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/8 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/9 區塊先生每日新聞快訊
 
-AI 與晶片股本週劇烈回檔，美股週四大跌、週五反彈；比特幣在 7.5 萬至 7.6 萬美元震盪，受 Binance 遭駭與 ETF 流出影響。
-下週留意聯準會 12 月升息預期變化、11/9 生效的 FinCEN 與聯準會旅行規則調整，以及 Anthropic 傳出的 11 月中旬 IPO 進展。
+比特幣週末在 7.5 萬美元附近震盪，現貨比特幣 ETF 上週淨流出 12.8 億美元；美股上週因選後 AI 政策疑慮劇烈波動，週五科技股反彈。
+本週留意就業數據轉強後市場對聯準會 12 月政策的預期，以及油價回落後的走勢。
 
 【幣圈】
-<a href="https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know">Binance 公布遭竊約 63 億美元，TRM 指與北韓駭客有關</a>
-Binance 表示約 63 億美元資產遭盜，為有紀錄以來最大規模加密貨幣盜案；TRM Labs 以高度信心認定與北韓關聯組織有關。Binance 後續稱已補足 98% 受影響資產。
+<a href="https://crypto.news/bitcoin-price-76000-altcoin-losses-weekend-watch/">比特幣停滯於 7.6 萬美元下方，主要山寨幣週跌幅擴大</a>
+11 月 8 日比特幣約 75,882 美元，一週下跌約 2.69%。美國現貨比特幣 ETF 上週淨流出 12.8 億美元，以太幣基金流出 3.65 億美元。
 
-<a href="https://news.bitcoin.com/regulation-and-legal/white-house-reviews-sec-crypto-rules-after-democratic-midterm-victory">SEC 加密券商規則草案送交白宮審查</a>
-SEC 於 11/3 將加密資產券商資本與客戶保護規則修正案送交白宮 OIRA 審查，草案尚未公開。民主黨在期中選舉後取得國會兩院多數。
+<a href="https://247wallst.com/investing/cryptocurrency/2026/11/08/russia-is-opening-bitcoin-and-ethereum-to-retail-investors-this-month-can-a-300000-ruble-cap-move-the-btc-and-eth-price">俄羅斯將於 11 月 17 日開放散戶買進比特幣與以太幣</a>
+非專業投資人通過知識測驗後，可購買比特幣、以太幣與 USDT，每家中介機構每年上限 30 萬盧布。莫斯科交易所預計 12 月 1 日試行交易。
 
-<a href="https://crypto.news/weekly-recap-binance-recovery-crypto-bill-bitcoin-etf/">美國現貨比特幣 ETF 11/5 淨流出 4.302 億美元</a>
-據 Farside Investors，美國現貨比特幣 ETF 11/4 淨流入 7,460 萬美元後，11/5 轉為淨流出 4.302 億美元；11 月前四個交易日累計淨流出 8.698 億美元。
+<a href="https://kucoin.com/news/flash/sec-submits-crypto-broker-dealer-rule-proposal-to-white-house-for-review">SEC 將加密券商規則提案送交白宮審查</a>
+據報導，SEC 於 11 月 3 日將加密券商規則提案送交白宮審查，涵蓋淨資本、客戶資產保護與記錄保存等規定，尚未公開草案與時程。
 
 【金融】
-<a href="https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html">美股週四重挫，那斯達克進入修正區間</a>
-11/5 道瓊下跌逾 1,800 點，標普 500 約跌 4.3%，那斯達克跌 5.5%；VIX 單日大漲逾 65%，為兩年多來最大單日漲幅。
+<a href="https://www.staradvertiser.com/2026/11/05/breaking-news/nasdaq-heads-for-correction-as-ai-stocks-plunge-after-midterms/">民主黨中期選舉勝選後美股重挫，那斯達克 100 單日跌逾 6%</a>
+彭博報導，11 月 5 日標普 500 下跌 4.4%，那斯達克 100 跌逾 6%，費城半導體指數跌 12%。投資人擔憂選後政策拖慢 AI 與資料中心建設。
 
-<a href="https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html">美國 10 月非農新增 16.5 萬人，市場預期聯準會 12 月升息</a>
-10 月非農新增 16.5 萬人，高於預期，失業率降至 4.1%。11/6 標普 500 漲 0.31%、那斯達克漲 1.09%、道瓊跌 0.46%；市場更預期 12 月升息。
+<a href="https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534">美國 10 月新增非農 16.5 萬人，12 月升息預期升溫</a>
+美國 10 月非農增加 16.5 萬人，高於預期的 7 萬人，失業率降至 4.1%。市場重新評估聯準會 12 月升息的可能性，美元走強。
 
-<a href="https://invezz.com/news/2026/11/06/oil-prices-today-brent-weekly-slump/">布蘭特原油週跌逾一成，逼近 100 美元關口</a>
-在中東外交進展預期下，布蘭特原油本週跌幅約 12%，接近每桶 100 美元；WTI 12 月合約 11/6 收 90.34 美元。
+<a href="https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534">布蘭特原油單週下跌 17%，黃金同期上漲逾 5%</a>
+週一上午布蘭特原油約 97.57 美元、WTI 約 90.39 美元，單週跌幅為疫情初期以來最大。現貨黃金約 4,071 美元。
 
 【AI】
-<a href="https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/">OpenAI 首批募得約 110 億美元，估值 1.25 兆美元</a>
-OpenAI 新一輪募資首批約 110 億美元到位，軟銀與 MGX 參與，財務長證實估值 1.25 兆美元；外界先前報導目標為 300 億美元以上。
+<a href="https://www.fastcompany.com/91636791/anthropic-metr-ai-claude-acceleration">METR 評估：Anthropic 模型改進速度約為一年前的兩倍</a>
+METR 檢視 Anthropic 約 11 週內部資料，估計其在可明確定義任務上的進步速度約為去年的兩倍，並指其八月公開風險報告低估了內部加速程度。
 
-<a href="https://unite.ai/anthropics-planned-ipo-puts-public-trust-and-data-centers-in-focus">Anthropic 傳鎖定 11 月中旬 Nasdaq 上市，估值預期下修</a>
-CNBC 報導 Anthropic 最快 11 月中旬於 Nasdaq 掛牌，投資人目標估值約 1 兆至 1.5 兆美元，低於先前傳出的 2 兆美元。
+<a href="https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/">OpenAI 發表 GPT-6 Cyber，限定審核客戶使用</a>
+該模型針對 948 個 Linux 漏洞開發出提權利用程式，並發現 81 個 Firefox 高風險漏洞。OpenAI 將其資安能力評為「Critical」，僅限核准客戶使用。
 
-<a href="https://ca.finance.yahoo.com/news/chip-stocks-hammered-political-shift-162300534.html">AI 晶片股重挫，市場擔憂政治轉向增添資料中心監管風險</a>
-民主黨贏得國會後，投資人擔心 AI 資料中心建設面臨更多監管阻力，費城半導體指數 11/5 單日下跌約 12%。
+<a href="https://thenextweb.com/news/meta-acquires-conductor-ai-coding-agents-superintelligence-labs">Meta 收購 AI 程式碼代理工具 Conductor</a>
+Conductor 可同時執行多個 AI 程式碼代理，團隊將加入 Meta 超級智慧實驗室，金額未公開。其雲端服務 11 月 13 日轉唯讀、20 日終止。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
