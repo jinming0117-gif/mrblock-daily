@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/9 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/10 區塊先生每日新聞快訊
 
-比特幣週末在 7.5 萬美元附近震盪，現貨比特幣 ETF 上週淨流出 12.8 億美元；美股上週因選後 AI 政策疑慮劇烈波動，週五科技股反彈。
-本週留意就業數據轉強後市場對聯準會 12 月政策的預期，以及油價回落後的走勢。
+Nvidia 董事會調查執行長黃仁勳遭外國情報行動鎖定的報導，加上美伊談判停滯，市場波動加劇；亞股自科技股重挫後反彈。
+留意週二公布的美國 10 月 CPI；非農優於預期後，12 月升息機率升至 80% 以上。
 
 【幣圈】
-<a href="https://crypto.news/bitcoin-price-76000-altcoin-losses-weekend-watch/">比特幣停滯於 7.6 萬美元下方，主要山寨幣週跌幅擴大</a>
-11 月 8 日比特幣約 75,882 美元，一週下跌約 2.69%。美國現貨比特幣 ETF 上週淨流出 12.8 億美元，以太幣基金流出 3.65 億美元。
+<a href="https://coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility">比特幣短線震盪，24 小時清算逾 10 億美元</a>
+CoinDesk 報導，比特幣一度跌至約 73,761 美元，為 8 月以來低點，隨後回升至 75,000 美元之上。CoinGlass 數據顯示，24 小時清算逾 10 億美元，其中多單約 9.13 億美元。
 
-<a href="https://247wallst.com/investing/cryptocurrency/2026/11/08/russia-is-opening-bitcoin-and-ethereum-to-retail-investors-this-month-can-a-300000-ruble-cap-move-the-btc-and-eth-price">俄羅斯將於 11 月 17 日開放散戶買進比特幣與以太幣</a>
-非專業投資人通過知識測驗後，可購買比特幣、以太幣與 USDT，每家中介機構每年上限 30 萬盧布。莫斯科交易所預計 12 月 1 日試行交易。
+<a href="https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average">Strategy 再增持 1,036 枚比特幣；MARA 季後出售 13,597 枚</a>
+CoinDesk 報導，Strategy 買入 1,036 枚比特幣，總持倉達 850,364 枚；MARA 則以平均約 81,039 美元出售 13,597 枚，持倉降至 20,415 枚。
 
-<a href="https://kucoin.com/news/flash/sec-submits-crypto-broker-dealer-rule-proposal-to-white-house-for-review">SEC 將加密券商規則提案送交白宮審查</a>
-據報導，SEC 於 11 月 3 日將加密券商規則提案送交白宮審查，涵蓋淨資本、客戶資產保護與記錄保存等規定，尚未公開草案與時程。
+<a href="https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average">嘉信理財開放客戶交易 SOL、AVAX 與 LINK</a>
+CoinDesk 報導，嘉信理財（Schwab）的加密貨幣客戶現可交易 Solana、Avalanche 與 Chainlink 的原生代幣，該公司今年稍早已開放比特幣與以太幣交易。
 
 【金融】
-<a href="https://www.staradvertiser.com/2026/11/05/breaking-news/nasdaq-heads-for-correction-as-ai-stocks-plunge-after-midterms/">民主黨中期選舉勝選後美股重挫，那斯達克 100 單日跌逾 6%</a>
-彭博報導，11 月 5 日標普 500 下跌 4.4%，那斯達克 100 跌逾 6%，費城半導體指數跌 12%。投資人擔憂選後政策拖慢 AI 與資料中心建設。
+<a href="https://investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437">亞股自 AI 賣壓中反彈，台股盤中最多上漲 6.4%</a>
+Investing.com 報導，MSCI 亞太指數漲 2.3%，日經 225 漲 3.5%，KOSPI 漲 1.6%。台灣金管會同時調降放空量限制並提高保證金要求。
 
-<a href="https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534">美國 10 月新增非農 16.5 萬人，12 月升息預期升溫</a>
-美國 10 月非農增加 16.5 萬人，高於預期的 7 萬人，失業率降至 4.1%。市場重新評估聯準會 12 月升息的可能性，美元走強。
+<a href="https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rise-oil-141915606.html">美股期貨走高，油價因川普表示攻擊伊朗「極不可能」下跌</a>
+Yahoo Finance 報導，美國原油期貨跌逾 4%。上週五那斯達克漲 1.1%、標普 500 漲 0.3%，但單週分別下跌 3.4% 與 2.7%。
 
-<a href="https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534">布蘭特原油單週下跌 17%，黃金同期上漲逾 5%</a>
-週一上午布蘭特原油約 97.57 美元、WTI 約 90.39 美元，單週跌幅為疫情初期以來最大。現貨黃金約 4,071 美元。
+<a href="https://www.schwab.com/learn/story/stock-market-update-open">非農就業優於預期，12 月升息機率升至 80% 以上，市場聚焦週二 CPI</a>
+嘉信理財報導，10 月非農新增 16.5 萬人，高於預期的 6.2 萬人。CME FedWatch 顯示升息機率由 60% 升至 80% 以上；10 月 CPI 預期月增 0.3%。
 
 【AI】
-<a href="https://www.fastcompany.com/91636791/anthropic-metr-ai-claude-acceleration">METR 評估：Anthropic 模型改進速度約為一年前的兩倍</a>
-METR 檢視 Anthropic 約 11 週內部資料，估計其在可明確定義任務上的進步速度約為去年的兩倍，並指其八月公開風險報告低估了內部加速程度。
+<a href="https://investing.com/news/stock-market-news/google-expands-ai-chip-lineup-as-nvidia-faces-ceo-spy-scandal-5011823">Nvidia 董事會展開獨立調查，股價下跌逾 5%</a>
+Investing.com 報導，Nvidia 表示沒有理由相信公司機密或美國國家安全受到影響，並對黃仁勳的領導表達信心。週一 Nvidia 股價下跌約 5.7%。
 
-<a href="https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/">OpenAI 發表 GPT-6 Cyber，限定審核客戶使用</a>
-該模型針對 948 個 Linux 漏洞開發出提權利用程式，並發現 81 個 Firefox 高風險漏洞。OpenAI 將其資安能力評為「Critical」，僅限核准客戶使用。
+<a href="https://dataconomy.com/2026/11/09/anthropic-ipo-faces-investor-doubts-and-ai-backlash/">Anthropic 擬於 11 月中旬在那斯達克上市，投資人對估值與路演時程出現疑慮</a>
+Dataconomy 報導，投資人討論的估值區間約 1 兆至 1.5 兆美元，低於先前傳出的 2 兆美元；招股書顯示採購承諾與租賃合計約 8,954 億美元。
 
-<a href="https://thenextweb.com/news/meta-acquires-conductor-ai-coding-agents-superintelligence-labs">Meta 收購 AI 程式碼代理工具 Conductor</a>
-Conductor 可同時執行多個 AI 程式碼代理，團隊將加入 Meta 超級智慧實驗室，金額未公開。其雲端服務 11 月 13 日轉唯讀、20 日終止。
+<a href="https://www.wsiu.org/state-of-illinois/2026-11-09/with-new-democratic-congress-incoming-pritzker-calls-for-federal-ai-regulations">民主黨掌控新國會在即，伊利諾州長普立茲克呼籲制定聯邦 AI 監管</a>
+Capitol News Illinois 報導，普立茲克提出涵蓋數位隱私、AI 安全與資料中心的聯邦架構，並主張應建立在各州措施之上；美國目前尚無全面的聯邦 AI 框架。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
