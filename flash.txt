@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/11 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/12 區塊先生每日新聞快訊
 
-美國 10 月 CPI 高於市場預期，聯準會理事 Waller 表態支持 12 月升息，美股收低、10 年期美債殖利率升至約 5%，比特幣同步跌破 7.3 萬美元，為 8 月下旬以來新低。
-本日需留意市場對 12 月 9 日 FOMC 升息幅度的預期變化，以及 Anthropic IPO 定價與 Nvidia 相關調查的後續發展。
+美國10月通膨高於預期，市場預期聯準會12月升息，但AI概念股財報帶動美股與半導體族群反彈，比特幣則在7.3萬至7.5萬美元間震盪。
+今日留意聯準會官員對升息幅度的表態、美元與日圓走勢，以及Anthropic IPO進度。
 
 【幣圈】
-<a href="https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat">通膨數據偏熱，比特幣跌破 7.3 萬美元</a>
-CoinDesk 報導，比特幣自 8 月 20 日以來首度跌破 7.3 萬美元，創近三個月低點；以太幣、XRP 與 Solana 同步下跌約 4% 至 6%。市場在 CPI 公布後預期聯準會 12 月升息。
+<a href="https://www.kucoin.com/news/flash/bitcoin-price-rebounds-on-nov-11-2026-amid-etf-outflows-and-market-volatility">比特幣測試7.3萬美元支撐，現貨ETF近三週淨流出</a>
+報導指比特幣一度升破7.5萬美元，24小時低點約7.37萬美元，連續五週收跌後再度測試7.3萬美元支撐。美國現貨比特幣ETF近三週淨流出約11.8億美元，總資產約959億美元。
 
-<a href="https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat">Lookonchain：14 家上市公司今年已賣出逾 10.8 萬枚比特幣</a>
-據 Lookonchain 數據，14 家上市公司 2026 年合計賣出 108,247 枚比特幣，價值約 80.8 億美元。其中 MARA 賣出 40,581 枚、Riot 賣出 20,264 枚，兩者合計約占 56%。
+<a href="https://crypto.news/goldman-citi-270m-dollar-stablecoin-venture">高盛、花旗等21家金融機構合資穩定幣公司獲約2.7億美元承諾</a>
+彭博報導，參與機構承諾約2.7億美元，涵蓋新公司前五年營運成本。成員包括美國銀行、德意志銀行、瑞銀等，計畫先推出美元穩定幣，目標2027年上半年上線，尚未取得發行許可。
 
-<a href="https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat">Securitize 公布財報後股價上漲約 41%</a>
-代幣化公司 Securitize（SECZ）公布第三季財報與 River One 收購案後，股價上漲約 41% 至 9.86 美元。Citi 同日將評等升至買進、目標價 14 美元，公司並宣布 5,000 萬美元庫藏股計畫。
+<a href="https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks">倫敦證交所放寬加密ETN規範，德意志銀行數位資產託管上線</a>
+CoinDesk指出，倫敦證交所放寬專業投資人加密ETN的上市指引，為槓桿型比特幣與以太幣產品鋪路。德意志銀行也為歐洲機構客戶推出數位資產託管服務，涵蓋比特幣、以太幣與穩定幣。
 
 【金融】
-<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026">CPI 高於預期，美股三大指數收低</a>
-11 月 10 日道瓊收 52,231.89 點、下跌 0.30%，S&amp;P 500 下跌 0.38%，那斯達克下跌 0.74%。10 月 CPI 月增 0.4%，高於預期的 0.3%；核心 CPI 月增 0.3%，高於預期的 0.2%。
+<a href="https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726">美股收高，費城半導體指數大漲5.7%</a>
+路透報導，標普500上漲1.31%至7,619.38點，那斯達克上漲1.60%，道瓊上漲0.49%。科技類股漲2.7%，為11大類股中最強，VIX連續第四個交易日下滑至17.49。
 
-<a href="https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html">Waller：12 月應至少升息 1 碼</a>
-聯準會理事 Waller 表示，即使 10 月通膨降溫，聯準會仍應在 12 月至少升息 25 個基點；若物價壓力加速，也應考慮升息 50 個基點。美國 10 年期公債殖利率升至約 5%。
+<a href="https://www.1049thewolf.com/2026/11/11/trading-day-ai-cheer-banishes-rate-hike-fear/">Waller：12月升息50個基點在考慮之列，美元指數創高</a>
+路透報導，聯準會理事Waller表示12月升息2碼（50個基點）可列入考慮。聯準會9月已升息25個基點、10月暫停。美元指數升至去年4月以來高點，美元兌日圓逼近160。
 
-<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026">川普稱暫不對伊朗發動新攻擊，油價走低</a>
-川普表示計畫暫緩對伊朗採取新的攻擊行動，油價盤中走低，WTI 約 85.5 美元、布蘭特約 90.8 美元。網頁未提供收盤油價。
+<a href="https://www.manilatimes.net/2026/11/11/business/foreign-business/us-stocks-fall-on-hot-inflation-report-as-nvidia-tumbles-again/2467219">布蘭特原油一度跌破90美元，收在91.49美元</a>
+法新社報導，布蘭特原油週二盤中一度跌破每桶90美元，為8月以來首次，終場收在91.49美元，下跌1.2%。同日美國10月通膨降溫幅度不如預期，美股三大指數收低。
 
 【AI】
-<a href="https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html">Nvidia 股價走低，執行長黃仁勳遭媒體報導指控</a>
-The Information 報導指控黃仁勳與一名中國商人關係密切，並稱相關管道協助出貨至少 75 億美元晶片至中國企業。Nvidia 股價盤中下跌，另有訴訟與國會關注，指控內容尚待查證。
+<a href="https://www.marketscreener.com/news/wall-street-set-for-higher-open-as-coreweave-results-temper-ai-spending-concerns-ce785edbdf88fe27">CoreWeave財報提振AI基建股，股價單日大漲逾兩成</a>
+CoinDesk報導，CoreWeave第三季營收36.6億美元，年增168%，單季淨損7.09億美元，並上調全年營收預測至130億至133億美元。路透指其股價收漲24.7%，Nebius同步上漲15.4%。
 
-<a href="https://www.investing.com/news/stock-market-news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai-5015908">台積電董事會通過投資 Anthropic 與 OpenAI</a>
-台積電董事會 11 月 10 日核准，最多各投資 5 億美元：Anthropic 以 IPO 價格認購普通股，OpenAI 則為特別股，合計最多 10 億美元。
+<a href="https://www.manilatimes.net/2026/11/11/business/foreign-business/us-stocks-fall-on-hot-inflation-report-as-nvidia-tumbles-again/2467219">Anthropic擬於IPO募資最高640億美元</a>
+法新社報導，Anthropic計畫於本月稍後的IPO募資最高640億美元，低於數週前市場傳出的約1,000億美元。該公司第三季營收升至170億美元，去年同期為14億美元。
 
-<a href="https://dev.to/hiroki-ii-ai/ai-daily-digest-november-10-2026-openai-buys-astral-nvidia-opens-gr00t-2-claude-fable-52-32p5">OpenAI 同意收購 Python 工具開發商 Astral</a>
-OpenAI 同意收購 uv、Ruff、ty 等 Python 工具的開發商 Astral，團隊將併入 Codex，交易條件未揭露。OpenAI 表示將持續支持相關開源專案。
+<a href="https://www.foxnews.com/live-news/ai-news-china-super-intelligence-safety-11-11-26">美中擬在下週會面推進先進AI風險對話</a>
+美國財政部長貝森特表示，川普與習近平預計在深圳APEC場邊會面時推進新的AI雙邊對話，並交流模型上線前的測試做法。雙方9月已同意設立AI重大事件的直接聯絡管道。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
