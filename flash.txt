@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/12 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/13 區塊先生每日新聞快訊
 
-美國10月通膨高於預期，市場預期聯準會12月升息，但AI概念股財報帶動美股與半導體族群反彈，比特幣則在7.3萬至7.5萬美元間震盪。
-今日留意聯準會官員對升息幅度的表態、美元與日圓走勢，以及Anthropic IPO進度。
+輝達執行長黃仁勳辭職衝擊 AI 概念股，美股收低，比特幣跌破 50 週均線。
+今日留意美國 PPI 數據與聯準會 12 月升息；Anthropic 預計 11/19 掛牌。
 
 【幣圈】
-<a href="https://www.kucoin.com/news/flash/bitcoin-price-rebounds-on-nov-11-2026-amid-etf-outflows-and-market-volatility">比特幣測試7.3萬美元支撐，現貨ETF近三週淨流出</a>
-報導指比特幣一度升破7.5萬美元，24小時低點約7.37萬美元，連續五週收跌後再度測試7.3萬美元支撐。美國現貨比特幣ETF近三週淨流出約11.8億美元，總資產約959億美元。
+<a href="https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal">比特幣跌破 50 週均線</a>
+CoinDesk 報導，BTC 約 71,400 美元，低於約 75,153 美元的 50 週均線。Wintermute 指下一支撐在 6.8 萬美元，收復 8 萬美元才會改變看法。
 
-<a href="https://crypto.news/goldman-citi-270m-dollar-stablecoin-venture">高盛、花旗等21家金融機構合資穩定幣公司獲約2.7億美元承諾</a>
-彭博報導，參與機構承諾約2.7億美元，涵蓋新公司前五年營運成本。成員包括美國銀行、德意志銀行、瑞銀等，計畫先推出美元穩定幣，目標2027年上半年上線，尚未取得發行許可。
+<a href="https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine">MSCI 確認 11/30 收盤後剔除 Strategy</a>
+BloFin 估計追蹤基金需賣出約 1,300 萬股、約 16 億美元。Strategy 持有 850,364 枚比特幣，剔除指數不會迫使其賣幣。
 
-<a href="https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks">倫敦證交所放寬加密ETN規範，德意志銀行數位資產託管上線</a>
-CoinDesk指出，倫敦證交所放寬專業投資人加密ETN的上市指引，為槓桿型比特幣與以太幣產品鋪路。德意志銀行也為歐洲機構客戶推出數位資產託管服務，涵蓋比特幣、以太幣與穩定幣。
+<a href="https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending">專欄：GENIUS 法案保障未涵蓋 DeFi 借貸</a>
+Ajna 共同創辦人在 CoinDesk 專欄指出，穩定幣全額準備與兩日內贖回等規定，並不保護 DeFi 借貸端。
 
 【金融】
-<a href="https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726">美股收高，費城半導體指數大漲5.7%</a>
-路透報導，標普500上漲1.31%至7,619.38點，那斯達克上漲1.60%，道瓊上漲0.49%。科技類股漲2.7%，為11大類股中最強，VIX連續第四個交易日下滑至17.49。
+<a href="https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/">美股收低，輝達跌 4.34%</a>
+道瓊與標普 500 各跌 0.36%，那斯達克跌 0.39%。AMD 漲 5.86%、博通漲 5.54%，10 年期美債殖利率升至 4.98%。
 
-<a href="https://www.1049thewolf.com/2026/11/11/trading-day-ai-cheer-banishes-rate-hike-fear/">Waller：12月升息50個基點在考慮之列，美元指數創高</a>
-路透報導，聯準會理事Waller表示12月升息2碼（50個基點）可列入考慮。聯準會9月已升息25個基點、10月暫停。美元指數升至去年4月以來高點，美元兌日圓逼近160。
+<a href="https://www.click2houston.com/business/2026/11/12/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st/">亞股多數收低，AI 概念股受壓</a>
+美聯社報導，日經 225 跌 0.7%，恒生指數跌 1.2%，台灣加權指數跌 2.6%，上證跌 0.6%。
 
-<a href="https://www.manilatimes.net/2026/11/11/business/foreign-business/us-stocks-fall-on-hot-inflation-report-as-nvidia-tumbles-again/2467219">布蘭特原油一度跌破90美元，收在91.49美元</a>
-法新社報導，布蘭特原油週二盤中一度跌破每桶90美元，為8月以來首次，終場收在91.49美元，下跌1.2%。同日美國10月通膨降溫幅度不如預期，美股三大指數收低。
+<a href="https://fortune.com/article/price-of-oil-11-12-2026/">布蘭特原油報 94.58 美元</a>
+財星報導，11/12 美東上午 6:30 布蘭特原油較前一日跌 1.19%，較一個月前的 106.68 美元下跌約 11.34%。
 
 【AI】
-<a href="https://www.marketscreener.com/news/wall-street-set-for-higher-open-as-coreweave-results-temper-ai-spending-concerns-ce785edbdf88fe27">CoreWeave財報提振AI基建股，股價單日大漲逾兩成</a>
-CoinDesk報導，CoreWeave第三季營收36.6億美元，年增168%，單季淨損7.09億美元，並上調全年營收預測至130億至133億美元。路透指其股價收漲24.7%，Nebius同步上漲15.4%。
+<a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">黃仁勳辭任輝達執行長，Kress 代理</a>
+TechCrunch 報導，輝達指派財務長 Colette Kress 為代理執行長。約 130 億美元收購 Hugging Face 尚未完成。
 
-<a href="https://www.manilatimes.net/2026/11/11/business/foreign-business/us-stocks-fall-on-hot-inflation-report-as-nvidia-tumbles-again/2467219">Anthropic擬於IPO募資最高640億美元</a>
-法新社報導，Anthropic計畫於本月稍後的IPO募資最高640億美元，低於數週前市場傳出的約1,000億美元。該公司第三季營收升至170億美元，去年同期為14億美元。
+<a href="https://finance.yahoo.com/technology/ai/articles/anthropic-launches-ipo-roadshow-1-162029558.html">Anthropic 啟動 IPO 路演</a>
+價格區間每股 70 至 78 美元，完全稀釋估值最高約 1.4 兆美元，預計 11/19 在那斯達克交易，代碼 ANT。
 
-<a href="https://www.foxnews.com/live-news/ai-news-china-super-intelligence-safety-11-11-26">美中擬在下週會面推進先進AI風險對話</a>
-美國財政部長貝森特表示，川普與習近平預計在深圳APEC場邊會面時推進新的AI雙邊對話，並交流模型上線前的測試做法。雙方9月已同意設立AI重大事件的直接聯絡管道。
+<a href="https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai">台積電核准最多投資 Anthropic 與 OpenAI 共 10 億美元</a>
+11/10 報導，兩家各最多 5 億美元；Anthropic 以 IPO 價格認購股份，OpenAI 為特別股。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
