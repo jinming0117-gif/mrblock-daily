@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/13 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/14 區塊先生每日新聞快訊
 
-輝達執行長黃仁勳辭職衝擊 AI 概念股，美股收低，比特幣跌破 50 週均線。
-今日留意美國 PPI 數據與聯準會 12 月升息；Anthropic 預計 11/19 掛牌。
+Nvidia 執行長請辭與聯準會 12 月升息預期交織，壓抑科技股與加密市場。
+本日留意 12 月 FOMC 升息幅度預期，以及日圓在 160 關卡附近的走勢。
 
 【幣圈】
-<a href="https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal">比特幣跌破 50 週均線</a>
-CoinDesk 報導，BTC 約 71,400 美元，低於約 75,153 美元的 50 週均線。Wintermute 指下一支撐在 6.8 萬美元，收復 8 萬美元才會改變看法。
+<a href="https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643">比特幣 24 小時下跌約 7%，跌破 6.9 萬美元</a>
+The Block 報導，比特幣一度跌至 68,408 美元，為 8 月 20 日以來低點；CoinGlass 數據顯示 24 小時內合約爆倉約 14.7 億美元，其中多單約 13.1 億美元。
 
-<a href="https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine">MSCI 確認 11/30 收盤後剔除 Strategy</a>
-BloFin 估計追蹤基金需賣出約 1,300 萬股、約 16 億美元。Strategy 持有 850,364 枚比特幣，剔除指數不會迫使其賣幣。
+<a href="https://theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175">白宮向參議院提名四名 SEC 與 CFTC 委員</a>
+白宮 11 月 12 日送出四項提名，為約一年來首次。SEC 提名人為 Kristin Johnson 與 Steven Levine，後者將接替 Hester Peirce；CFTC 為 Anonick 與 Rowland。
 
-<a href="https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending">專欄：GENIUS 法案保障未涵蓋 DeFi 借貸</a>
-Ajna 共同創辦人在 CoinDesk 專欄指出，穩定幣全額準備與兩日內贖回等規定，並不保護 DeFi 借貸端。
+<a href="https://genfinity.io/2026/11/10/sec-clears-nasdaq-ise-options-digital-commodity-etps">SEC 批准 Nasdaq ISE 上市數位商品 ETP 選擇權</a>
+SEC 通過 Nasdaq ISE 規則修訂，符合條件的信託產品日後可直接上市選擇權，框架涵蓋比特幣、以太幣、Solana、XRP 等 19 種數位商品。
 
 【金融】
-<a href="https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/">美股收低，輝達跌 4.34%</a>
-道瓊與標普 500 各跌 0.36%，那斯達克跌 0.39%。AMD 漲 5.86%、博通漲 5.54%，10 年期美債殖利率升至 4.98%。
+<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026">美股收低，Nvidia 事件與升息預期壓抑科技股</a>
+TheStreet 報導，Nvidia 盤中股價跌約 3.9%。10 月 PPI 月增 0.3%，低於預期的 0.4%，年增 6.5%；市場預期 12 月 FOMC 升息 1 碼。
 
-<a href="https://www.click2houston.com/business/2026/11/12/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st/">亞股多數收低，AI 概念股受壓</a>
-美聯社報導，日經 225 跌 0.7%，恒生指數跌 1.2%，台灣加權指數跌 2.6%，上證跌 0.6%。
+<a href="https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026">美元指數創 18 個月新高，日圓短暫貼近 160</a>
+Saxo 指出，10 月 CPI 偏高後市場重新定價聯準會預期，美國 10 年期殖利率重回 5% 上方；美元兌日圓一度突破 160，收在約 159.84。
 
-<a href="https://fortune.com/article/price-of-oil-11-12-2026/">布蘭特原油報 94.58 美元</a>
-財星報導，11/12 美東上午 6:30 布蘭特原油較前一日跌 1.19%，較一個月前的 106.68 美元下跌約 11.34%。
+<a href="https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026">Brent 原油回升至 94 美元上方，伊朗談判仍有變數</a>
+Saxo 報導，川普表示美國不需要與伊朗達成協議，Brent 上漲約 3.3%；在中東出口恢復下，油價仍朝連續第二週下跌的走勢。
 
 【AI】
-<a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">黃仁勳辭任輝達執行長，Kress 代理</a>
-TechCrunch 報導，輝達指派財務長 Colette Kress 為代理執行長。約 130 億美元收購 Hugging Face 尚未完成。
+<a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">研究：中國部分頂尖模型疑似使用受管制的 Nvidia 晶片</a>
+TechCrunch 報導，前 OpenAI 研究員分析模型權重，認為 Kimi K3 與 DeepSeek V4 疑似以 Blackwell 晶片訓練，但文章提醒晶片可能位於海外資料中心。
 
-<a href="https://finance.yahoo.com/technology/ai/articles/anthropic-launches-ipo-roadshow-1-162029558.html">Anthropic 啟動 IPO 路演</a>
-價格區間每股 70 至 78 美元，完全稀釋估值最高約 1.4 兆美元，預計 11/19 在那斯達克交易，代碼 ANT。
+<a href="https://www.claimsjournal.com/news/national/2026/11/13/341283.htm">非營利組織在舊金山起訴 OpenAI、Anthropic 等 AI 公司</a>
+多個科技問責非營利組織對 OpenAI、Anthropic、Meta、Google 等提告，請求法院禁止被告繼續開發最先進 AI 模型，並援引加州不公平商業行為法律。
 
-<a href="https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai">台積電核准最多投資 Anthropic 與 OpenAI 共 10 億美元</a>
-11/10 報導，兩家各最多 5 億美元；Anthropic 以 IPO 價格認購股份，OpenAI 為特別股。
+<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026">Nvidia 執行長請辭後，商務部長將赴參議院作證</a>
+TheStreet 報導，黃仁勳在任 33 年後請辭，財務長 Kress 暫代；商務部長 Lutnick 同意出席參議院銀行委員會，說明對中國的晶片銷售管制。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
