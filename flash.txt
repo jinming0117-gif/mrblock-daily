@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/14 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/15 區塊先生每日新聞快訊
 
-Nvidia 執行長請辭與聯準會 12 月升息預期交織，壓抑科技股與加密市場。
-本日留意 12 月 FOMC 升息幅度預期，以及日圓在 160 關卡附近的走勢。
+比特幣週末再度下探，ETF 持續流出，聯準會 12 月升息預期升溫，加密與科技股同受壓抑。
+本週留意 Nvidia 週二財報、Anthropic 預定 11 月 19 日的 Nasdaq 掛牌，以及聯準會官員對 12 月升息幅度的談話。
 
 【幣圈】
-<a href="https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643">比特幣 24 小時下跌約 7%，跌破 6.9 萬美元</a>
-The Block 報導，比特幣一度跌至 68,408 美元，為 8 月 20 日以來低點；CoinGlass 數據顯示 24 小時內合約爆倉約 14.7 億美元，其中多單約 13.1 億美元。
+<a href="https://cryptoticker.io/en/crypto-news-bitcoin-falls-to-63500-fed-hike-bets-november-14-2026/">比特幣跌至約 6.35 萬美元，加密總市值降至約 2.16 兆美元</a>
+CryptoTicker 報導，比特幣 24 小時下跌約 6.6%，以太幣報 1,745 美元、下跌 9.1%；24 小時合約爆倉約 10 億美元。CME FedWatch 顯示 12 月升息一碼機率約 88.5%。
 
-<a href="https://theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175">白宮向參議院提名四名 SEC 與 CFTC 委員</a>
-白宮 11 月 12 日送出四項提名，為約一年來首次。SEC 提名人為 Kristin Johnson 與 Steven Levine，後者將接替 Hester Peirce；CFTC 為 Anonick 與 Rowland。
+<a href="https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337">美國現貨比特幣 ETF 連續兩週淨流出逾 10 億美元</a>
+The Block 報導，上週淨流出 10.7 億美元，兩週合計 23.5 億美元；以太幣 ETF 流出 3.99 億美元，為連續第七週淨流出。
 
-<a href="https://genfinity.io/2026/11/10/sec-clears-nasdaq-ise-options-digital-commodity-etps">SEC 批准 Nasdaq ISE 上市數位商品 ETP 選擇權</a>
-SEC 通過 Nasdaq ISE 規則修訂，符合條件的信託產品日後可直接上市選擇權，框架涵蓋比特幣、以太幣、Solana、XRP 等 19 種數位商品。
+<a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html">比特幣較 2025 年 10 月高點低約 47%，預測市場關注 5.5 萬美元</a>
+24/7 Wall St. 報導，現貨比特幣 ETF 總淨資產由 10 月 21 日的 1,093 億美元降至 862 億美元。Kalshi 顯示年底前跌破 5.5 萬美元的機率為 23%。
 
 【金融】
-<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026">美股收低，Nvidia 事件與升息預期壓抑科技股</a>
-TheStreet 報導，Nvidia 盤中股價跌約 3.9%。10 月 PPI 月增 0.3%，低於預期的 0.4%，年增 6.5%；市場預期 12 月 FOMC 升息 1 碼。
+<a href="https://fortune.com/2026/11/14/federal-reserve-inflation-forever-war-iran-oil-prices-diesel-fed-rate-hikes/">Waller 表示 12 月可考慮升息 2 碼，聯準會通膨之戰恐持續</a>
+Fortune 報導，聯邦基金利率目前為 3.75%–4.00%。Waller 指出，若核心物價月增 0.3% 以上，12 月應考慮升息 50 個基點；10 月核心 CPI 月增 0.3%。
 
-<a href="https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026">美元指數創 18 個月新高，日圓短暫貼近 160</a>
-Saxo 指出，10 月 CPI 偏高後市場重新定價聯準會預期，美國 10 年期殖利率重回 5% 上方；美元兌日圓一度突破 160，收在約 159.84。
+<a href="https://finance.yahoo.com/economy/policy/articles/wall-street-watching-troubling-move-170300570.html">美國 10 年期公債殖利率重返 5% 上方，12 月升息預期升高</a>
+TheStreet 報導，10 年期殖利率 11 月 13 日再升逾 13 個基點。市場對 12 月升息一碼的定價已視為確定；30 年期房貸利率為 7.11%，連續第四週下降。
 
-<a href="https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026">Brent 原油回升至 94 美元上方，伊朗談判仍有變數</a>
-Saxo 報導，川普表示美國不需要與伊朗達成協議，Brent 上漲約 3.3%；在中東出口恢復下，油價仍朝連續第二週下跌的走勢。
+<a href="https://financefeeds.com/brent-crude-oil-price-95-84-saturday-week-ahead-second-weekly-loss-bull-98-bear-91/">Brent 原油連兩週收跌，週五收 95.84 美元</a>
+FinanceFeeds 報導，Brent 本週下跌約 2.5%，前一週跌幅約 16%；11 月 10 日曾收在 91.49 美元，為 8 月以來最低結算價。
 
 【AI】
-<a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">研究：中國部分頂尖模型疑似使用受管制的 Nvidia 晶片</a>
-TechCrunch 報導，前 OpenAI 研究員分析模型權重，認為 Kimi K3 與 DeepSeek V4 疑似以 Blackwell 晶片訓練，但文章提醒晶片可能位於海外資料中心。
+<a href="https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/">黃仁勳請辭後，Nvidia 股價一度重挫，市值短暫跌破 4 兆美元</a>
+Fortune 報導，黃仁勳任職 33 年後離任，財務長 Kress 暫代執行長。Nvidia 股價最多下跌 14%；截至 7 月底，對主要 AI 模型公司的投資近 500 億美元。
 
-<a href="https://www.claimsjournal.com/news/national/2026/11/13/341283.htm">非營利組織在舊金山起訴 OpenAI、Anthropic 等 AI 公司</a>
-多個科技問責非營利組織對 OpenAI、Anthropic、Meta、Google 等提告，請求法院禁止被告繼續開發最先進 AI 模型，並援引加州不公平商業行為法律。
+<a href="https://finance.yahoo.com/markets/stocks/articles/elon-musk-joins-100-000-172500045.html">請求黃仁勳復職的連署突破 10 萬人</a>
+Moneywise 報導，連署名單中自稱現任 Nvidia 員工者逾 5,000 人，但名單為自行申報、尚未核實。參議院銀行委員會主席 Tim Scott 要求黃仁勳 12 月 3 日出席作證。
 
-<a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026">Nvidia 執行長請辭後，商務部長將赴參議院作證</a>
-TheStreet 報導，黃仁勳在任 33 年後請辭，財務長 Kress 暫代；商務部長 Lutnick 同意出席參議院銀行委員會，說明對中國的晶片銷售管制。
+<a href="https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345">Anthropic 首次公開募股據報獲約 6 倍超額認購</a>
+路透轉述彭博報導，Anthropic 擬以每股 70 至 78 美元發行 8.25 億股、募資最高 644 億美元，預計 11 月 19 日於 Nasdaq 以代號 ANT 掛牌；細節可能變動。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
