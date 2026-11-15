@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/15 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/16 區塊先生每日新聞快訊
 
-比特幣週末再度下探，ETF 持續流出，聯準會 12 月升息預期升溫，加密與科技股同受壓抑。
-本週留意 Nvidia 週二財報、Anthropic 預定 11 月 19 日的 Nasdaq 掛牌，以及聯準會官員對 12 月升息幅度的談話。
+聯準會 12 月升息預期升溫，美元走強、殖利率走高，比特幣一度跌至約 6.2 萬美元，市場風險偏好偏弱。
+本週留意 Anthropic IPO 定價（預計 11/18）、Nvidia 財報（11/17），以及參議院銀行委員會 11/19 的 SEC 提名人聽證。
 
 【幣圈】
-<a href="https://cryptoticker.io/en/crypto-news-bitcoin-falls-to-63500-fed-hike-bets-november-14-2026/">比特幣跌至約 6.35 萬美元，加密總市值降至約 2.16 兆美元</a>
-CryptoTicker 報導，比特幣 24 小時下跌約 6.6%，以太幣報 1,745 美元、下跌 9.1%；24 小時合約爆倉約 10 億美元。CME FedWatch 顯示 12 月升息一碼機率約 88.5%。
+<a href="https://cryptoticker.io/en/bitcoin-price-62000-crash-fed-hike-60000-level-november-15-2026/">比特幣跌至約 6.2 萬美元，Fed 升息預期衝擊市場</a>
+CryptoTicker 報導，比特幣 24 小時下跌約 8.9%，報 62,199 美元。CME FedWatch 顯示 12 月升息機率約 88.5%；美國現貨比特幣 ETF 於 11/9 至 11/13 淨流出約 10.7 億美元。
 
-<a href="https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337">美國現貨比特幣 ETF 連續兩週淨流出逾 10 億美元</a>
-The Block 報導，上週淨流出 10.7 億美元，兩週合計 23.5 億美元；以太幣 ETF 流出 3.99 億美元，為連續第七週淨流出。
+<a href="https://crypto.news/clarity-act-congress-lame-duck-sec-cftc-nominations/">CLARITY Act 停滯，川普提名 SEC、CFTC 新委員</a>
+Crypto.news 指出，CLARITY Act 9 月於參議院以 49 比 50 未能結束辯論，目前進展有限。川普於 11/12 提名四位 SEC 與 CFTC 委員，參議院銀行委員會 11/19 將舉行聽證。
 
-<a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html">比特幣較 2025 年 10 月高點低約 47%，預測市場關注 5.5 萬美元</a>
-24/7 Wall St. 報導，現貨比特幣 ETF 總淨資產由 10 月 21 日的 1,093 億美元降至 862 億美元。Kalshi 顯示年底前跌破 5.5 萬美元的機率為 23%。
+<a href="https://en.coin-turk.com/thailand-sec-proposes-148000-daily-stablecoin-limit-and-tighter-wallet-rules/">泰國 SEC 擬設穩定幣單日轉帳上限</a>
+泰國 SEC 公布草案，擬將每位客戶在單一平台的穩定幣存提上限訂為每日 500 萬泰銖（約 14.8 萬美元），並要求加強身分審查與交易監控。草案公開諮詢至 11/26。
 
 【金融】
-<a href="https://fortune.com/2026/11/14/federal-reserve-inflation-forever-war-iran-oil-prices-diesel-fed-rate-hikes/">Waller 表示 12 月可考慮升息 2 碼，聯準會通膨之戰恐持續</a>
-Fortune 報導，聯邦基金利率目前為 3.75%–4.00%。Waller 指出，若核心物價月增 0.3% 以上，12 月應考慮升息 50 個基點；10 月核心 CPI 月增 0.3%。
+<a href="https://www.kitco.com/news/off-the-wire/2026-11-10/us-yields-rise-stocks-fall-inflation-data-boosts-odds-larger-december">美國 10 月 CPI 高於預期，殖利率走高</a>
+路透報導，美國 10 月 CPI 月增 0.4%，高於預期的 0.3%；核心 CPI 月增 0.3%，高於預期的 0.2%。10 年期公債殖利率升至約 4.99%，市場對 12 月 Fed 升息幅度的預期上升。
 
-<a href="https://finance.yahoo.com/economy/policy/articles/wall-street-watching-troubling-move-170300570.html">美國 10 年期公債殖利率重返 5% 上方，12 月升息預期升高</a>
-TheStreet 報導，10 年期殖利率 11 月 13 日再升逾 13 個基點。市場對 12 月升息一碼的定價已視為確定；30 年期房貸利率為 7.11%，連續第四週下降。
+<a href="https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026">美元指數創 18 個月高，日圓逼近 160</a>
+盛寶（Saxo）指出，美元指數上漲 0.2%，創 18 個月新高。美元兌日圓一度突破 160，收在約 159.84，市場出現干預討論；現貨黃金一度跌破每盎司 3,860 美元，為一年新低。
 
-<a href="https://financefeeds.com/brent-crude-oil-price-95-84-saturday-week-ahead-second-weekly-loss-bull-98-bear-91/">Brent 原油連兩週收跌，週五收 95.84 美元</a>
-FinanceFeeds 報導，Brent 本週下跌約 2.5%，前一週跌幅約 16%；11 月 10 日曾收在 91.49 美元，為 8 月以來最低結算價。
+<a href="https://www.brecorder.com/news/40448723/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade">油價連續第二週下跌，美國維持對伊朗封鎖</a>
+路透報導，11/13 布蘭特原油報約 96.21 美元，WTI 約 88.62 美元，兩者本週均下跌約 2%。川普表示不需與伊朗達成協議，美國將持續封鎖；荷莫茲海峽的油輪受襲說法尚未獲證實。
 
 【AI】
-<a href="https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/">黃仁勳請辭後，Nvidia 股價一度重挫，市值短暫跌破 4 兆美元</a>
-Fortune 報導，黃仁勳任職 33 年後離任，財務長 Kress 暫代執行長。Nvidia 股價最多下跌 14%；截至 7 月底，對主要 AI 模型公司的投資近 500 億美元。
+<a href="https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/">Anthropic 訂出 IPO 價格區間，估值最高 1.4 兆美元</a>
+財星報導，Anthropic 計畫以每股 70 至 78 美元發行 8.25 億股，於那斯達克掛牌，代號 ANT，最高募資約 644 億美元。包含 Google、Nvidia 在內的七家夥伴同意以 IPO 價認購 260 億美元無投票權股票。
 
-<a href="https://finance.yahoo.com/markets/stocks/articles/elon-musk-joins-100-000-172500045.html">請求黃仁勳復職的連署突破 10 萬人</a>
-Moneywise 報導，連署名單中自稱現任 Nvidia 員工者逾 5,000 人，但名單為自行申報、尚未核實。參議院銀行委員會主席 Tim Scott 要求黃仁勳 12 月 3 日出席作證。
+<a href="https://pureai.com/articles/2026/11/12/anthropic-ipo-faces-a-new-backdrop-as-huang-leaves-nvidia.aspx">黃仁勳辭去 Nvidia 執行長，財務長 Kress 暫代</a>
+Pure AI 報導，Nvidia 於 11/12 宣布黃仁勳立即辭去執行長、總裁與董事職務，由財務長 Colette Kress 擔任臨時執行長，董事會將評估內部與外部人選。
 
-<a href="https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345">Anthropic 首次公開募股據報獲約 6 倍超額認購</a>
-路透轉述彭博報導，Anthropic 擬以每股 70 至 78 美元發行 8.25 億股、募資最高 644 億美元，預計 11 月 19 日於 Nasdaq 以代號 ANT 掛牌；細節可能變動。
+<a href="https://www.digitaltrends.com/computing/google-gemini-4-carbon-is-now-available-for-complex-ai-tasks/">Google 開放 Gemini 4 Carbon，主打高難度任務</a>
+Digital Trends 報導，Gemini 4 Carbon 開放給 Google AI Ultra 訂閱者，並可透過 AI Studio 的 API 使用，初期價格為每百萬輸入 token 2 美元、輸出 10 美元，定位於複雜除錯與科學研究。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
