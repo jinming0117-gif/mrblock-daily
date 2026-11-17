@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/17 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/18 區塊先生每日新聞快訊
 
-比特幣週末一度跌至約 6.2 萬美元，美股與亞股則因 AI 相關股票走弱而下挫，市場風險情緒偏謹慎。
-本週留意 Nvidia 週二盤後財報、美國商務部新的 AI 晶片遠端存取規定，以及 Anthropic 預計 11/18 定價的 IPO。
+美股 17 日收盤四連跌，道瓊指數下跌 1.64%，AI 與軟體類股承壓；比特幣同日回落至約 6.4 萬美元，資金經穩定幣流出市場。
+本日需留意聯準會 FOMC 會議紀要（台北時間 11/19 凌晨公布）；CME FedWatch 顯示 12 月升息 25 個基點的機率約 95.4%。
 
 【幣圈】
-<a href="https://www.kucoin.com/news/articles/crypto-daily-market-report-november-16-2026">比特幣一度跌至約 6.2 萬美元，恐懼貪婪指數降至 10</a>
-KuCoin 日報指出，比特幣週末一度跌至約 62,000 美元，為 7 月以來低點，之後回升至約 65,000 美元。CoinGlass 數據顯示，11/15 的 24 小時爆倉金額一度超過 20 億美元，多數為多單。
+<a href="https://www.fool.com/coverage/stock-market-today/2026/11/17/crypto-market-today-nov-17-a-warning-sign-not-seen-since-2022-is-flashing-across-cryptocurrency-markets/">比特幣回落至約 6.4 萬美元，資金經穩定幣流出</a>
+Motley Fool 報導，比特幣 11/17 下跌 1.29% 至 63,990 美元，七日跌幅 13%；以太幣跌破 1,800 美元。文中引述 CoinDesk 指出，資金經由穩定幣流出市場的速度為 2022 年以來最快。
 
-<a href="https://en.cryptonomist.ch/2026/11/16/bitcoin-price-faces-1b-november-etf-outflows-november-16-2026/">比特幣現貨 ETF 資金淨流出連續七日</a>
-Cryptonomist 報導，比特幣 ETF 本月累計淨流出約 21 億美元，且已連續七個交易日流出。比特幣日線 RSI 為 24.3，處於超賣區，但文章指出尚不足以確認止跌。
+<a href="https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909">川普提名的兩位 CFTC 人選出席參議院聽證，預測市場成焦點</a>
+The Block 報導，CFTC 提名人 Matthew Rowland 與 Nathan Anonick 出席參議院農業委員會聽證，議員聚焦預測市場與體育賭博的監管權限。委員會仍須先表決，之後才送交全體參議院。
 
-<a href="https://theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907">穩定幣供應 30 日減少 142 億美元</a>
-The Block 引述 Glassnode 11/11 的數據，主要穩定幣 30 日供應減少 142 億美元，為 2022 年熊市以來最大收縮，總供應約 2,800 億美元。Glassnode 表示，供應重新成長將是新資金進場的早期跡象。
+<a href="https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842">Coinbase 將鏈上借貸 Coinbase Borrow 擴及紐約</a>
+The Block 報導，Coinbase Borrow 在取得紐約州金融服務廳核准後開放給紐約合格居民，涵蓋美國 50 州。使用者以持有的加密資產抵押借出 USDC，鏈上基礎設施由 Morpho 提供。
 
 【金融】
-<a href="https://www.investing.com/news/economy-news/trading-day-ai-jitters-slam-wall-street-5031112">路透：AI 疑慮拖累華爾街，亞股同步走弱</a>
-路透報導，週一標普 500 指數約跌 1.9%、那斯達克約跌 2.5%、道瓊約跌 1.4%，科技與通訊服務類股各跌約 3%。亞洲方面，日本約跌 2.4%、南韓約跌 4%、中國約跌 1%。
+<a href="https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/">美股收盤四連跌，道瓊下跌 848 點</a>
+Motley Fool 報導，11/17 標普 500 下跌 1.03% 至 7,340.53，連續第四個交易日收跌；那斯達克下跌 0.74%，道瓊下跌 1.64% 至 50,759.42。美國 10 年期公債殖利率下降 3 個基點至 5.11%。
 
-<a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-16-132700717.html">美國 10 月 PPI 年增 6.5%，為 2022 年 11 月以來最大增幅</a>
-Zacks 在 Yahoo Finance 的報導指出，美國 10 月生產者物價指數月增 0.5%、年增 6.5%。同一頁面顯示 10 年期美債殖利率約 5.13%，美股上週五三大指數收盤漲跌互見。
+<a href="https://www.wsls.com/business/2026/11/17/asian-shares-decline-following-stocks-tumbled-on-wall-street/">亞股多數收跌，日經指數下跌 1.2%</a>
+美聯社報導，11/17 日經 225 指數下跌 1.2% 至 58,956.67，南韓 Kospi 下跌 1%，澳洲 ASX 200 下跌 1.5%。布蘭特原油下跌 0.8% 至每桶 91.66 美元，美元兌日圓報 159.35。
 
-<a href="https://eurasiabusinessnews.com/2026/11/16/u-s-stock-market-today-november-16-2026-nvidia-earnings-loom-as-oil-slips-and-gold-struggles/">Nvidia 週二盤後公布財報，油價與金價走弱</a>
-Eurasia Business News 指出，Nvidia 將於週二盤後公布財報，由代理執行長 Colette Kress 主持說明。盤前報價顯示布蘭特原油約 95.30 美元、WTI 約 88.34 美元，現貨黃金約 3,864 美元。
+<a href="https://www.marketscreener.com/news/gold-lingers-near-more-than-one-year-low-on-fed-hike-bets-ce785edfde8ffe21">金價徘徊逾一年低點，市場聚焦升息預期</a>
+路透報導，現貨黃金 11/17 上漲 0.5% 至每盎司 3,874.41 美元，前一日曾觸及 2025 年 10 月以來低點。CME FedWatch 顯示 12 月升息 25 個基點機率為 95.4%，FOMC 會議紀要將於週三公布。
 
 【AI】
-<a href="https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/">美國商務部發布規則，限制先進 AI 晶片遠端存取</a>
-CBS 報導，美國商務部 11/16 發布臨時規則，防止外國透過第三國資料中心遠端使用先進晶片。巴西、印尼、馬來西亞、新加坡與泰國取得相關晶片，也將需要出口許可。
+<a href="https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization">輝達財報優於預期，第四季營收指引高於市場共識</a>
+CoinDesk 報導，輝達第三財季營收 1,158 億美元，每股盈餘 2.68 美元，均高於預期；第四季營收指引 1,274 億至 1,326 億美元，盤後股價上漲約 1.7%。
 
-<a href="https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump">華爾街日報：美國擬公布逾 24 家 AI「國家冠軍」企業</a>
-根據華爾街日報報導，川普政府計畫點名包括 Nvidia、亞馬遜、微軟、OpenAI 與 Anthropic 在內的逾 24 家企業，協助其拓展海外市場。名單可能在一週內由商務部長盧特尼克公布，時程仍可能調整。
+<a href="https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/">輝達執行長黃仁勳 11/12 請辭，財務長 Kress 暫代</a>
+Motley Fool 報導，黃仁勳於 11/12 辭去執行長職務，財務長 Colette Kress 擔任代理執行長；該報導指出，辭職消息在財報公布前引發股價賣壓。輝達 11/17 收盤報 155.46 美元，下跌 0.44%。
 
-<a href="https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion">Anthropic 公布 IPO 價格區間 70 至 78 美元</a>
-Decrypt 報導，Anthropic 擬在那斯達克以代號 ANT 發行 8.25 億股，價格區間為每股 70 至 78 美元。預計 11/18 定價、11/19 開始交易，另有 260 億美元非投票權股份私募。
+<a href="https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html">輝達警告晶片買家：中國取得 AI 算力恐涉法律風險</a>
+CNBC 引述消息人士報導，輝達向晶片買家提出警告，指涉及中國取得 AI 運算資源的行為可能面臨法律風險。另有報導提到，美國對先進 AI 晶片的國際取用新增限制，為科技類股帶來壓力。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
