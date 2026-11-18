@@ -1,37 +1,37 @@
-🗞️ 市場快訊｜11/18 區塊先生每日新聞快訊
+🗞️ 市場快訊｜11/19 區塊先生每日新聞快訊
 
-美股 17 日收盤四連跌，道瓊指數下跌 1.64%，AI 與軟體類股承壓；比特幣同日回落至約 6.4 萬美元，資金經穩定幣流出市場。
-本日需留意聯準會 FOMC 會議紀要（台北時間 11/19 凌晨公布）；CME FedWatch 顯示 12 月升息 25 個基點的機率約 95.4%。
+比特幣連續六週收跌、一度觸及 6.2 萬美元，市場同時關注升息預期與 Anthropic 即將掛牌對風險資產的影響。美股、油價與美元同步波動。
+今日留意 Anthropic 於 Nasdaq 首日交易表現，以及市場對聯準會 12 月升息的預期變化。
 
 【幣圈】
-<a href="https://www.fool.com/coverage/stock-market-today/2026/11/17/crypto-market-today-nov-17-a-warning-sign-not-seen-since-2022-is-flashing-across-cryptocurrency-markets/">比特幣回落至約 6.4 萬美元，資金經穩定幣流出</a>
-Motley Fool 報導，比特幣 11/17 下跌 1.29% 至 63,990 美元，七日跌幅 13%；以太幣跌破 1,800 美元。文中引述 CoinDesk 指出，資金經由穩定幣流出市場的速度為 2022 年以來最快。
+<a href="https://theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491">Binance 取得阿布達比法院 65 億美元全球凍結令</a>
+Binance 宣布取得阿布達比全球市場法院的全球凍結令，針對 10 月 29 日遭竊資產，涵蓋金額 65 億美元。Binance 稱律師已鎖定 2.6 萬個錢包地址，先前已凍結或攔截約 28.5 億美元。
 
-<a href="https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909">川普提名的兩位 CFTC 人選出席參議院聽證，預測市場成焦點</a>
-The Block 報導，CFTC 提名人 Matthew Rowland 與 Nathan Anonick 出席參議院農業委員會聽證，議員聚焦預測市場與體育賭博的監管權限。委員會仍須先表決，之後才送交全體參議院。
+<a href="https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017">比特幣六週連跌，K33 認為出現超賣跡象</a>
+比特幣報價約 6.4 萬美元，過去一週下跌 14%，為連續第六週收跌。K33 研究主管表示 7 萬美元以下的進場價位具吸引力；Glassnode 則指出買盤仍薄，6.2 萬美元為關鍵觀察位。
 
-<a href="https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842">Coinbase 將鏈上借貸 Coinbase Borrow 擴及紐約</a>
-The Block 報導，Coinbase Borrow 在取得紐約州金融服務廳核准後開放給紐約合格居民，涵蓋美國 50 州。使用者以持有的加密資產抵押借出 USDC，鏈上基礎設施由 Morpho 提供。
+<a href="https://coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say">分析師：將比特幣下跌歸因於 Anthropic IPO 說服力有限</a>
+CoinDesk 報導，趙長鵬認為 Anthropic IPO 是近期下跌因素之一，但多位分析師指出資金流向缺乏證據，更可能與升息預期、美債殖利率走高及 Binance 事件後的市場情緒有關。
 
 【金融】
-<a href="https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/">美股收盤四連跌，道瓊下跌 848 點</a>
-Motley Fool 報導，11/17 標普 500 下跌 1.03% 至 7,340.53，連續第四個交易日收跌；那斯達克下跌 0.74%，道瓊下跌 1.64% 至 50,759.42。美國 10 年期公債殖利率下降 3 個基點至 5.11%。
+<a href="https://lufkindailynews.com/news_reuters/business/stocks-slip-with-eyes-on-anthropic-and-nvidia-oil-prices-slide/article_7c6f0620-923c-5fa8-80c6-8d850135bd1f.html">美股漲跌互見，Anthropic IPO 定價 83 美元</a>
+道瓊下跌 1.11% 至 50,198.17 點，S&amp;P 500 下跌 0.23%，那斯達克上漲 0.42%。Anthropic 將 IPO 定價訂在每股 83 美元，高於預期區間，預計週四掛牌交易。
 
-<a href="https://www.wsls.com/business/2026/11/17/asian-shares-decline-following-stocks-tumbled-on-wall-street/">亞股多數收跌，日經指數下跌 1.2%</a>
-美聯社報導，11/17 日經 225 指數下跌 1.2% 至 58,956.67，南韓 Kospi 下跌 1%，澳洲 ASX 200 下跌 1.5%。布蘭特原油下跌 0.8% 至每桶 91.66 美元，美元兌日圓報 159.35。
+<a href="https://live.euronext.com/en/financial-news/oil-prices-limbo-between-higher-us-crude-stocks-and-supply-risks">美國原油庫存增加，油價持續回落</a>
+路透報導，API 數據顯示美國原油庫存增加 528 萬桶，WTI 一度跌至 85.54 美元，為 8 月下旬以來低點。美伊衝突與荷莫茲海峽攻擊事件仍帶來供給風險，布蘭特約在 93 美元。
 
-<a href="https://www.marketscreener.com/news/gold-lingers-near-more-than-one-year-low-on-fed-hike-bets-ce785edfde8ffe21">金價徘徊逾一年低點，市場聚焦升息預期</a>
-路透報導，現貨黃金 11/17 上漲 0.5% 至每盎司 3,874.41 美元，前一日曾觸及 2025 年 10 月以來低點。CME FedWatch 顯示 12 月升息 25 個基點機率為 95.4%，FOMC 會議紀要將於週三公布。
+<a href="https://lufkindailynews.com/news_reuters/business/stocks-slip-with-eyes-on-anthropic-and-nvidia-oil-prices-slide/article_7c6f0620-923c-5fa8-80c6-8d850135bd1f.html">美元指數創 19 個月高點，貴金屬走弱</a>
+受聯準會升息預期帶動，美元指數上升 0.17% 至 103.79，為 19 個月高點。黃金下跌 3.24% 至每盎司 3,725.10 美元，白銀下跌 4.98%，銅價下跌 4.54%。
 
 【AI】
-<a href="https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization">輝達財報優於預期，第四季營收指引高於市場共識</a>
-CoinDesk 報導，輝達第三財季營收 1,158 億美元，每股盈餘 2.68 美元，均高於預期；第四季營收指引 1,274 億至 1,326 億美元，盤後股價上漲約 1.7%。
+<a href="https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/">Nvidia 說明資料中心貸款擔保條件</a>
+Nvidia 代理執行長 Colette Kress 表示，貸款擔保僅在客戶取得融資並完成建置後生效，專案延遲或失敗則失效。公司未來將更審慎選擇融資對象；Q3 淨利為 649 億美元。
 
-<a href="https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/">輝達執行長黃仁勳 11/12 請辭，財務長 Kress 暫代</a>
-Motley Fool 報導，黃仁勳於 11/12 辭去執行長職務，財務長 Colette Kress 擔任代理執行長；該報導指出，辭職消息在財報公布前引發股價賣壓。輝達 11/17 收盤報 155.46 美元，下跌 0.44%。
+<a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/">OpenAI 推出 GPT-6.2 Astra 與 Sol 模型</a>
+OpenAI 發表兩款新模型，Astra 主打軟體開發與科研，Sol 鎖定日常任務與 AI 代理，可透過 ChatGPT Work、Codex 與 API 使用。Astra 定價為每百萬輸入 8 美元、輸出 40 美元。
 
-<a href="https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html">輝達警告晶片買家：中國取得 AI 算力恐涉法律風險</a>
-CNBC 引述消息人士報導，輝達向晶片買家提出警告，指涉及中國取得 AI 運算資源的行為可能面臨法律風險。另有報導提到，美國對先進 AI 晶片的國際取用新增限制，為科技類股帶來壓力。
+<a href="https://www.semafor.com/article/11/17/2026/china-threatens-retaliation-against-us-chip-curbs">美國擬限制中國經海外雲端取得先進晶片，北京揚言反制</a>
+美方提議限制中國透過海外雲端基礎設施使用先進美國晶片，不再只管制實體出貨。中國方面表示將採取反制措施。
 
 🌟 本週推薦 &amp; 中文社區 🌟
 ▸ Ether.Fi 超級推薦碼：https://www.ether.fi/@mrblock
